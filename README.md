@@ -9,7 +9,7 @@ I am a web developer committed to continuous learning. I primarily work with Lar
 * 🌍  I'm based in India
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Powered an endless supply of coffee
+* ⚡  Powered by an endless supply of coffee
 
 ### Skills
 
